@@ -1,0 +1,9 @@
+/*
+Theme Name:     MyFlight
+Template:       travel-agency
+
+This is the child theme for Travel Agency theme, generated with Generate Child Theme plugin by catchthemes.
+
+Right to Left text support.
+*/
+@import url("../travel-agency/rtl.css");
